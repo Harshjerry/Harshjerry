@@ -1,18 +1,18 @@
 # 👋 Hi there, I'm Harsh!
 
 ## 🚀 About Me
-- 🎓 Final-year student | Passionate about DevOps, Cloud, and Open Source
-- 🔧 Skilled in Terraform, Docker, Jenkins, Helm, Ansible, and GitHub Actions
-- 📦 Contributor to open source projects & CNCF ecosystem
+- 🎓 Final-year student | Passionate about **DevOps**, **Cloud**, and **Open Source**
+- 🔧 Skilled in **Terraform**, **Docker**, **Jenkins**, **Helm**, **Ansible**, and **GitHub Actions**
+- ☸️ Contributor to open source projects & CNCF ecosystem
 
 ## 💼 Currently Working On
-- 🚀 Building scalable cloud-native apps using Kubernetes
-- 🤖 ML + DevOps: Deploying intelligent systems in production
-- 🌱 Preparing for Winter SRE Internships at top tech firms
+- 🚀 Building **scalable cloud-native apps using Kubernetes**
+- 🤖 **ML + DevOps**: Deploying intelligent systems in production
+- 🌱 Preparing for **Winter SRE Internships** at top tech firms
 
 ## 📈 GitHub Stats
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshjerry&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjerry&layout=compact&theme=radical)
 
 ## 🛠️ Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws)
@@ -23,5 +23,12 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
 
+
+
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jerry008/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/Harshjerry)
+
+---
+
+⭐️ *Star this repo to follow my journey!*
