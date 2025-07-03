@@ -9,12 +9,7 @@
 - 🚀 Building **scalable cloud-native apps using Kubernetes**
 - 🤖 **ML + DevOps**: Deploying intelligent systems in production
 - 🌱 Preparing for **Winter SRE Internships** at top tech firms
-
-## 📈 GitHub Stats
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshjerry&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjerry&layout=compact&theme=radical)
-
-## 🛠️ Tech Stack
+- ## 🛠️ Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
@@ -22,6 +17,12 @@
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
+
+
+## 📈 GitHub Stats
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshjerry&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjerry&layout=compact&theme=radical)
+
 
 
 
