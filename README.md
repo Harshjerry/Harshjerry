@@ -7,7 +7,7 @@
 
 ## 💼 Currently Working On
 - 🚀 Building **scalable cloud-native apps using Kubernetes**
-- 🤖 **ML + DevOps**: Deploying intelligent systems in production
+- 🤖 **Cloud + DevOps**: Deploying intelligent systems in production
 - 🌱 Preparing for **Winter SRE Internships** at top tech firms
 - ## 🛠️ Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws)
