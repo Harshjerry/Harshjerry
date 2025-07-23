@@ -2,13 +2,12 @@
 
 ## 🚀 About Me
 - 🎓 Final-year student | Passionate about **DevOps**, **Cloud**, and **Open Source**
-- 🔧 Skilled in **Terraform**, **Docker**, **Jenkins**, **Helm**, **Ansible**, and **GitHub Actions**
-- ☸️ Contributor to open source projects & CNCF ecosystem
+- 🔧 Skilled in **Kubernetes**  **AWS** **Terraform**, **Docker**, **Jenkins**, **Helm**, **Ansible**, **ArgoCD**and **GitHub Actions**
 
 ## 💼 Currently Working On
 - 🚀 Building **scalable cloud-native apps using Kubernetes**
 - 🤖 **Cloud + DevOps**: Deploying intelligent systems in production
-- 🌱 Preparing for **Winter SRE Internships** at top tech firms
+- 🌱 Preparing for ** SRE Internships** at top tech firms
 - ## 🛠️ Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat&logo=kubernetes)
