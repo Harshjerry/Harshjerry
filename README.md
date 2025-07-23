@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Harsh!
 
 ## 🚀 About Me
-- 🎓 Final-year student | Passionate about **DevOps**, **Cloud**, and **Open Source**
+- 🎓 IT student at Indian Institute of Information Technology,Gwalior | Passionate about **DevOps**, **Cloud**, and **Open Source**
 - 🔧 Skilled in **Kubernetes**  **AWS** **Terraform**, **Docker**, **Jenkins**, **Helm**, **Ansible**, **ArgoCD**and **GitHub Actions**
 
 ## 💼 Currently Working On
