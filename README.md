@@ -9,6 +9,8 @@
 - 🤖 Deploying **intelligent Cloud + DevOps systems** in production  
 - 🌱 Preparing for **SRE Internships** at top tech firms  
 
+---
+
 ## 🛠️ Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat&logo=kubernetes)
@@ -21,15 +23,15 @@
 ---
 
 ## 📈 GitHub Stats
-![Harsh's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshjerry&theme=radical)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshjerry&theme=radical)
+[![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshjerry&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshjerry&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=arshjerry&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
-⭐️ *Star this repo to follow my journey!*
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jerry008/)
