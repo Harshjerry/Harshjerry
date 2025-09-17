@@ -18,12 +18,18 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
 
+---
+
 ## 📈 GitHub Stats
 ![Harsh's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshjerry&theme=radical)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshjerry&theme=radical)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=arshjerry&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+⭐️ *Star this repo to follow my journey!*
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jerry008/)
