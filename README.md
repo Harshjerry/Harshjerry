@@ -19,7 +19,7 @@
 
 
 ## 📈 GitHub Stats
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshjerry&show_icons=true&theme=radical)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshjerry&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=1800&token=${{ secrets.PAT_1 }})
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshjerry&layout=compact&theme=radical)
 
 
