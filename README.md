@@ -20,8 +20,10 @@
 
 ## 📈 GitHub Stats
 <!-- Option A: Safer public version -->
-![Harsh's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arshjerry&theme=radical)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arshjerry&theme=radical)
+## 📈 GitHub Stats
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshjerry&show_icons=true&theme=radical&count_private=true&hide_border=true&token=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)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshjerry&layout=compact&theme=radical&token=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)
+
 
 <!-- Option B: If you deploy your own instance with PAT -->
 <!--
