@@ -22,21 +22,3 @@
 
 ---
 
-## 📈 GitHub Stats
-[![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshjerry&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshjerry&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=arshjerry&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jerry008/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/arshjerry)
-
----
-
-⭐️ *Star this repo to follow my journey!*
