@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 IT student at **IIIT Gwalior** | Passionate about **DevOps**, **Cloud**, and **Open Source**
-- 🔧 Skilled in **Kubernetes**, **AWS**, **Terraform**, **Docker**, **Jenkins**, **Helm**, **Ansible**, **ArgoCD**, and **GitHub Actions**
+- 🔧 Skilled in **Kubernetes**, **AWS**, **Azure** ,**Terraform**, **Docker**, **Jenkins**, **Helm**, **Ansible**, **ArgoCD**, and **GitHub Actions**
 
 ## 💼 Currently Working On
 - 🚀 Building **scalable cloud-native apps** with Kubernetes  
