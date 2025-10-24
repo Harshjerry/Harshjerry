@@ -2,13 +2,12 @@
 
 ## 🚀 About Me
 - 🎓 IT student at **IIIT Gwalior** | Passionate about **DevOps**, **Cloud**, and **Open Source**
-- 🔧 Skilled in **Kubernetes**, **AWS**, **Azure** ,**Terraform**, **Docker**, **Jenkins**, **Helm**, **Ansible**, **ArgoCD**, and **GitHub Actions**
+- 🔧 Skilled in **Kubernetes**, **Linux**, **AWS** , **Terraform**, **Docker**, **Jenkins**, **Helm**, **Ansible**, **ArgoCD**
 
 ## 💼 Currently Working On
 - 🚀 Building **scalable cloud-native apps** with Kubernetes  
 - 🤖 Deploying **intelligent Cloud + DevOps systems** in production  
 - 🌱 Preparing for **SRE Internships** at top tech firms  
-
 ---
 
 ## 🛠️ Tech Stack
@@ -17,8 +16,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=flat&logo=terraform)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
-
 ---
 
