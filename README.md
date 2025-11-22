@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 IT student at **IIIT Gwalior** | Passionate about **DevOps**, **Cloud**, and **Open Source**
-- 🔧 Skilled in **Kubernetes**, **Linux**, **AWS**, **Terraform**, **Docker**, **Jenkins**, **Helm**, **Ansible**, **ArgoCD**
+- 🔧 Skilled in **Kubernetes**, **Linux**, **AWS**, **Terraform**, **Docker**, **Jenkins**, **Helm**, **Ansible**, **ArgoCD**, **ReactJS**
 ---
 
 ## 💼 Currently Working On
