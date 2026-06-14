@@ -1,20 +1,20 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=SRE+Intern+%40+IBM+Research;Saved+%24110K%2Fmonth+in+log+costs;CKA+%2B+AWS+SA-Associate+Certified;Building+AI+agents+for+log+analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=SRE+Intern+%40+IRL+ QUANTUM;Saved+%24110K%2Fmonth+in+log+costs;CKA+%2B+AWS+SA-Associate+Certified;Building+AI+agents+for+log+analysis" alt="Typing SVG" />
 </a>
 
 </div>
 
 # Harshdeep Singh
 
-SRE Intern at IBM Research — building infra that's already saving **$110K/month** in log costs on Quantum compute workloads. CKA + AWS SA-Associate certified. IT student at IIIT Gwalior, expected May 2027.
+SRE Intern at IRL — building infra that's already saving **$110K/month** in log costs on Quantum compute workloads. CKA + AWS SA-Associate certified. IT student at IIIT Gwalior, expected May 2027.
 
 ---
 
 ## What I'm doing right now
 
-- Running observability for IBM Research's Quantum Infrastructure across bare-metal Kubernetes and multi-tenant IBM Cloud
+- Running observability for IRL Research's Quantum Infrastructure across bare-metal Kubernetes and multi-tenant Cloud
 - Built a log-cost analysis platform driving **$1.3M+ annualized** savings
 - Cut MTTD by 35% with a unified Sysdig + OpenTelemetry + Jaeger pipeline
 - Shipping Terraform GitOps (Atlantis) that killed config drift by 40%, with zero-downtime rollouts and 99.99% uptime
