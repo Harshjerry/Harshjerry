@@ -40,20 +40,6 @@ SRE Intern at IBM Quantum — building infra that's already saving **$110K/month
 
 ---
 
-<div align="center">
-
-### GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshjerry&theme=default&hide_border=true&ring=2E7D32&fire=2E7D32" />
-
-<br/>
-
-### Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshjerry&theme=minimal&hide_border=true&line=2E7D32&color=333333" />
-
 </div>
 
 ---
