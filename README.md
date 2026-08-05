@@ -42,7 +42,6 @@ SRE Intern at IBM Quantum — building infra that's already saving **$110K/month
 
 </div>
 
----
 
 <div align="center">
 
