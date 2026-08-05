@@ -34,7 +34,7 @@ SRE Intern at IBM Quantum — building infra that's already saving **$110K/month
 
 ## Proof I can ship
 
-- 700+ DSA problems solved — algorithmic depth, not just config
+- 800+ DSA problems solved — algorithmic depth, not just config
 - 100+ Kubernetes incident scenarios (KillerKoda) · 50+ Linux debugging scenarios (SadServers)
 - JEE Mains AIR 3405 (top 0.3% of 1.1M candidates) · GATE 2026 qualified
 
