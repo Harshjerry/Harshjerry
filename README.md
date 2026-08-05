@@ -8,7 +8,7 @@
 
 # Harshdeep Singh
 
-SRE Intern at IRL Quantum — building infra that's already saving **$110K/month** in log costs on Quantum compute workloads. CKA + AWS SA-Associate certified. IT student at IIIT Gwalior, expected May 2027.
+SRE Intern at IBM Quantum — building infra that's already saving **$110K/month** in log costs on Quantum compute workloads. CKA + AWS SA-Associate certified. IT student at IIIT Gwalior, expected May 2027.
 
 ---
 
