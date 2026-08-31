@@ -16,7 +16,7 @@ SRE Intern at IBM Quantum — building infra that's already saving **$110K/month
 
 - Running observability for IBM Research Lab's Quantum Infrastructure across bare-metal Kubernetes and multi-tenant Cloud
 - Built a log-cost analysis platform driving **$1.3M+ annualized** savings
-- Cut MTTD by 35% with a unified Sysdig + OpenTelemetry + Jaeger pipeline
+- Cut MTTD by with a unified Sysdig + OpenTelemetry + Jaeger pipeline
 - Shipping Terraform GitOps (Atlantis) that killed config drift by 40%, with zero-downtime rollouts and 99.99% uptime
 
 ---
