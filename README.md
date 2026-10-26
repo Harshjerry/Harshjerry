@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=SRE+Intern+%40+IBM+Quantum;Saved+%24110K%2Fmonth+in+log+costs;CKA+%2B+AWS+SA-Associate+Certified;Building+AI+agents+for+log+analysis" alt="Typing SVG" />
@@ -8,40 +8,58 @@
 
 # Harshdeep Singh
 
-SRE Intern at IBM Quantum — building infra that's already saving **$110K/month** in log costs on Quantum compute workloads. CKA + AWS SA-Associate certified. IT student at IIIT Gwalior, expected May 2027.
+Former SRE Intern at IBM Quantum — building infrastructure that's already saving **$110K/month** in log costs on Quantum compute workloads. IT student at IIIT Gwalior, expected May 2027.
+
+---
+
+## Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/c88c679e-369e-4ac4-a26a-17a3295b0050" width="180" alt="Certified Kubernetes Administrator (CKA)" />
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/6440fd80-9d5e-4fbd-963f-d6ef56a66fd3" width="180" alt="AWS Certified Solutions Architect – Associate" />
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/91dc9b6a-0c05-4f79-a4f3-95f5429ffe58" width="180" alt="AWS Certified Cloud Practitioner" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## What I'm doing right now
 
-- Running observability for IBM Research Lab's Quantum Infrastructure across bare-metal Kubernetes and multi-tenant Cloud
-- Built a log-cost analysis platform driving **$1.3M+ annualized** savings
-- Cut MTTD with a unified Sysdig + OpenTelemetry + Jaeger pipeline
-- Shipping Terraform GitOps (Atlantis) that killed config drift by 40%, with zero-downtime rollouts and 99.99% uptime
+- Running observability for IBM Research Lab's Quantum Infrastructure across bare-metal Kubernetes and multi-tenant cloud environments.
+- Built a log-cost analysis platform driving **$1.3M+ in annualized savings**.
+- Improving mean time to detection (MTTD) with a unified Sysdig + OpenTelemetry + Jaeger pipeline.
+- Shipping Terraform GitOps with Atlantis, reducing configuration drift by 40%, enabling zero-downtime rollouts, and supporting 99.99% uptime.
 
 ---
 
 ## Stack
 
-**Orchestration** — Kubernetes, Docker, Helm, ArgoCD
-**IaC / Automation** — Terraform, Atlantis, Ansible, Jenkins, GitHub Actions
-**Observability** — Prometheus, Grafana, OpenTelemetry, Sysdig, Jaeger, Fluentbit
-**Cloud** — AWS (EKS, VPC, IAM, RDS, Route53), IBM Cloud
-**Languages** — Python, C++, Bash
+- **Orchestration:** Kubernetes, Docker, Helm, ArgoCD
+- **IaC / Automation:** Terraform, Atlantis, Ansible, Jenkins, GitHub Actions
+- **Observability:** Prometheus, Grafana, OpenTelemetry, Sysdig, Jaeger, Fluent Bit
+- **Cloud:** AWS (EKS, VPC, IAM, RDS, Route 53), IBM Cloud
+- **Languages:** Python, C++, Bash
 
 ---
 
-## Proof I can ship
+## Achievements
 
-- Data structures and Algorithms leetcode 1800
-- 100+ Kubernetes incident scenarios (KillerKoda) · 50+ Linux debugging scenarios (SadServers)
-- JEE Mains AIR 3405 (top 0.3% of 1.1M candidates)
-- GATE 2026 qualified
+- **Data Structures & Algorithms:** LeetCode rating of 1800
+- **Kubernetes:** 100+ incident scenarios practiced on KillerKoda
+- **Linux:** 50+ debugging scenarios practiced on SadServers
+- **JEE Main:** AIR 3405 — top 0.3% of 1.1M candidates
+- **GATE 2026:** Qualified
 
 ---
-
-</div>
-
 
 <div align="center">
 
