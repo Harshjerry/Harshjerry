@@ -8,7 +8,7 @@
 
 # Harshdeep Singh
 
-Former SRE Intern at IBM Quantum — built infrastructure that's already saving **$110K/month** in log costs on Quantum compute workloads. IT student at IIIT Gwalior, expected May 2027.
+Former SRE Intern at IBM Quantum — built infrastructure monitoring platform that's already saving **$110K/month** in log costs on Quantum compute workloads. IT student at IIIT Gwalior, expected May 2027.
 
 ---
 
