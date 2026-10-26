@@ -34,11 +34,11 @@ Former SRE Intern at IBM Quantum — built infrastructure monitoring platform th
 
 ## What I'm doing right now
 
-- Running observability for IBM Research Lab's Quantum Infrastructure across bare-metal Kubernetes and multi-tenant cloud environments.
+- Built and operated observability for IBM Research Lab's Quantum Infrastructure across bare-metal Kubernetes and multi-tenant cloud environments.
 - Built a log-cost analysis platform driving **$1.3M+ in annualized savings**.
-- Improving mean time to detection (MTTD) with a unified Sysdig + OpenTelemetry + Jaeger pipeline.
-- Shipping Terraform GitOps with Atlantis, reducing configuration drift by 40%, enabling zero-downtime rollouts, and supporting 99.99% uptime.
-
+- Improved mean time to detection (MTTD) with a unified Sysdig + OpenTelemetry + Jaeger pipeline.
+- Shipped Terraform GitOps with Atlantis, reducing configuration drift by 40%, enabling zero-downtime rollouts, and supporting 99.99% uptime.
+- Currently exploring **systems-level C++ and network engineering** — multithreading, atomics, memory ordering, thread pools, coroutines, lock-free systems, and modern C++ (17/20/23/26).
 ---
 
 ## Stack
@@ -53,7 +53,7 @@ Former SRE Intern at IBM Quantum — built infrastructure monitoring platform th
 
 ## Achievements
 
-- **Data Structures & Algorithms:** LeetCode rating of 1800
+- **Data Structures & Algorithms:** LeetCode rating of 1800+  with 900+ problems 
 - **Kubernetes:** 100+ incident scenarios practiced on KillerKoda
 - **Linux:** 50+ debugging scenarios practiced on SadServers
 - **JEE Main:** AIR 3405 — top 0.3% of 1.1M candidates
